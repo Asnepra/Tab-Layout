@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="second_slide_background">#39424E</color>
+    <color name="fourth_slide_background">#02CCBA</color>
+
+
+    <color name="white">#FFF</color>
+    <color name="black">#000000</color>
+    <color name="teal">#02CCBA</color>
+
+    <!-- PURPLE COLOR GRADIENTS-->
+    <color name="purple_txt">#E58AFE</color>
+    <color name="purple_ring_start_color">#ebb5f9</color>
+    <color name="purple_ring_center_color">#f6d1ff</color>
+    <color name="purple_end_color">#f6e3fc</color>
+
+
+
+    <!-- ORANGE COLOR GRADIENTS-->
+    <color name="orange_txt">#FEC062</color>
+    <color name="orange_ring_start_color">#FFDFAC</color>
+    <color name="orange_ring_center_color">#ffe6c0</color>
+    <color name="orange_end_color">#fff2df</color>
+
+
+    <!-- SKY BLUE COLOR GRADIENTS-->
+    <color name="sky_blue_txt">#8CE2EA</color>
+    <color name="sky_blue_ring_start_color">#97f1f4</color>
+    <color name="sky_blue_ring_center_color">#bef1f2</color>
+    <color name="sky_blue_end_color">#e7f7f9</color>
+
+
+
+    <!--LIGHT GREEN COLOR GRADIENTS-->
+    <color name="light_green_txt">#3ef1c1</color>
+    <color name="light_gren_ring_start_color">#76eccc</color>
+    <color name="light_green_ring_center_color">#c1f2e6</color>
+    <color name="light_green_end_color">#DFFDF5</color>
+</resources>
