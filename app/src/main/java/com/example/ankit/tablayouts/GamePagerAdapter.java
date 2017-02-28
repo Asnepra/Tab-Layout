@@ -34,7 +34,7 @@ public class GamePagerAdapter extends FragmentPagerAdapter {
                 Log.e(LOG_TAG, "Creating Play Fragment");
                 return new PlayFragment();
             case STATISTICS_SCREEN:
-                new StatisticsFragment();
+               return new StatisticsFragment();
             default:
                 return null;
         }
